@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Darsh Menon</h1>
 <p align="center">
 🎓 Robotics Enthusiast | 🦾 Autonomous Systems Developer  
-<br>Crafting intelligent robots using ROS 2, MoveIt, AI, and simulation
+<br>Crafting intelligent robots using ROS 2, MoveIt, AI, and simulation  
+<br>👨‍💻 Working @ Asimov Robotics
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ## 🔧 Tech Stack
 
-**Robotics & Simulation:**
+**Robotics & Simulation:**  
 ![UR5](https://img.shields.io/badge/UR5-6DOF--Arm-orange)
 ![Robotiq Gripper](https://img.shields.io/badge/Robotiq-2F--85-yellowgreen)
 ![MoveIt 2](https://img.shields.io/badge/MoveIt2-MTC-lightblue)
@@ -23,7 +24,7 @@
 ![RViz](https://img.shields.io/badge/RViz-Visualization-00599C)
 ![ROS 2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros)
 
-**Programming & Tools:**
+**Programming & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-orange)
@@ -67,10 +68,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshmenon&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ---
