@@ -2,7 +2,8 @@
 <p align="center">
 🎓 Robotics Enthusiast | 🦾 Autonomous Systems Developer  
 <br>Crafting intelligent robots using ROS 2, MoveIt, AI, and simulation  
-<br>👨‍💻 Working @ Asimov Robotics
+<br>👨‍💻 Working @ Asimov Robotics  
+<br>🌐 <a href="https://darshmenon.github.io/my-portfolio-website/">Visit My Portfolio Website</a>
 </p>
 
 <p align="center">
