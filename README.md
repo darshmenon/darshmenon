@@ -4,7 +4,7 @@
 <br>Crafting intelligent robots using ROS 2, MoveIt, AI, and simulation  
 <br>👨‍💻 Working @ Asimov Robotics  
 <br>🏗️ Building <a href="https://robocloud-dashboard.vercel.app/">RoboCloud Dashboard</a>  
-<br>🌐 <a href="https://darshmenon.github.io/my-portfolio-website/">Visit My Portfolio Website</a>
+<br>🌐 <a href="https://darshmenon.github.io/">Visit My Portfolio Website</a>
 </p>
 
 <p align="center">
