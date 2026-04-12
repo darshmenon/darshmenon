@@ -77,15 +77,6 @@
   <img src="https://readme-stats-fast.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=darshmenon&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshmenon&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshmenon&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
