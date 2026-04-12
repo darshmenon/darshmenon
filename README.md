@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Darsh Menon</h1>
+
 <p align="center">
 🎓 Robotics Enthusiast | 🦾 Autonomous Systems Developer  
 <br>Crafting intelligent robots using ROS 2, MoveIt, AI, and simulation  
@@ -20,11 +21,11 @@
 
 **Robotics & Simulation:**  
 ![UR5](https://img.shields.io/badge/UR5-6DOF--Arm-orange)
-![Robotiq Gripper](https://img.shields.io/badge/Robotiq-2F--85-yellowgreen)
-![MoveIt 2](https://img.shields.io/badge/MoveIt2-MTC-lightblue)
+![Robotiq](https://img.shields.io/badge/Robotiq-2F--85-yellowgreen)
+![MoveIt2](https://img.shields.io/badge/MoveIt2-MTC-lightblue)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-9cf)
 ![RViz](https://img.shields.io/badge/RViz-Visualization-00599C)
-![ROS 2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros)
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros)
 
 **Programming & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=blue)
@@ -42,10 +43,10 @@
 > Vision-powered robotic arm system using ROS 2 + MoveIt 2 + Gazebo
 
 - IK-based motion planning with MoveIt Task Constructor  
-- Gripper control, perception pipeline, and collision-aware task execution  
+- Gripper control, perception pipeline, and collision-aware execution  
 - Fully simulated and deployable ROS 2 system  
 
-🔗 [Read on Medium »](https://medium.com/@darshmenon02/how-i-am-building-an-autonomous-pick-and-place-system-with-ros-2-jazzy-and-gazebo-harmonic-6474cbcc8dc7)
+🔗 <a href="https://medium.com/@darshmenon02/how-i-am-building-an-autonomous-pick-and-place-system-with-ros-2-jazzy-and-gazebo-harmonic-6474cbcc8dc7">Read on Medium</a>
 
 ---
 
@@ -53,28 +54,36 @@
 > From mapping to localization with obstacle avoidance using simulated LiDAR
 
 - SLAM Toolbox + Nav2 on ROS 2 Jazzy  
-- Full navigation pipeline with costmaps, TF tuning, and YAML configs  
+- Costmaps, TF tuning, YAML configs  
 - Tested in Gazebo with real-time visualization  
 
-🔗 [Read Full Guide »](https://medium.com/@darshmenon02/mastering-ros-2-navigation-from-slam-mapping-to-autonomous-obstacle-avoidance-7446e4ff049a)
+🔗 <a href="https://medium.com/@darshmenon02/mastering-ros-2-navigation-from-slam-mapping-to-autonomous-obstacle-avoidance-7446e4ff049a">Read Full Guide</a>
 
 ---
 
 ## 💡 Core Interests
 
 - 🤖 Motion Planning: OMPL, Inverse Kinematics  
-- 🧠 Vision + Perception: Depth, Point Clouds, Object Detection  
-- 📦 Task Sequencing: MoveIt Task Constructor (MTC)  
-- 🧭 Navigation: SLAM, LiDAR, Costmaps, Localization  
-- 🛠️ Real-World Deployment of Autonomous Robots
+- 🧠 Vision: Depth, Point Clouds, Object Detection  
+- 📦 Task Sequencing: MoveIt Task Constructor  
+- 🧭 Navigation: SLAM, LiDAR, Costmaps  
+- 🛠️ Real-World Autonomous Deployment  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshmenon&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=darshmenon&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=darshmenon&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshmenon&theme=tokyo-night" />
 </p>
 
 ---
@@ -82,9 +91,15 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/darshmenon"><img src="https://img.shields.io/badge/GitHub-darshmenon-181717?logo=github&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/darsh-menon/"><img src="https://img.shields.io/badge/LinkedIn-Darsh%20Menon-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://medium.com/@darshmenon02"><img src="https://img.shields.io/badge/Medium-%40darshmenon02-black?logo=medium&style=for-the-badge" /></a>
+  <a href="https://github.com/darshmenon">
+    <img src="https://img.shields.io/badge/GitHub-darshmenon-181717?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/darsh-menon/">
+    <img src="https://img.shields.io/badge/LinkedIn-Darsh%20Menon-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://medium.com/@darshmenon02">
+    <img src="https://img.shields.io/badge/Medium-%40darshmenon02-black?logo=medium&style=for-the-badge" />
+  </a>
 </p>
 
 ---
