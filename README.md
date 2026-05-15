@@ -1,69 +1,43 @@
-<h1 align="center">Hi, I'm Darsh Menon 👋</h1>
+# Hi, I'm Darsh Menon 👋
 
-<p align="center">
-Robotics Developer | Autonomous Systems | ROS 2 | AI  
-<br>Building intelligent robotic systems using perception, planning, and control  
-<br>Robotics Developer at Asimov Robotics  
-<br>
-<a href="https://robocloud-dashboard.vercel.app/">RoboCloud Dashboard</a> •
-<a href="https://darshmenon.github.io/">Portfolio</a>
-</p>
+Full-stack robotics developer building the end-to-end loop from perception to actuation — arm manipulation, autonomous navigation, multi-robot fleets, and reinforcement learning.
 
----
+[LinkedIn](https://www.linkedin.com/in/darsh-menon/) • [Medium](https://medium.com/@darshmenon02) • [Portfolio](https://darshmenon.github.io/) • [RoboCloud Dashboard](https://robocloud-dashboard.vercel.app/)
 
-## Tech Stack
+`ROS 2` `MuJoCo RL` `UR Arms` `Nav2 / SLAM` `Quadruped Locomotion` `Isaac Sim`
 
-**Robotics & Simulation**  
-![UR5](https://img.shields.io/badge/UR5-6DOF--Arm-orange)
-![Robotiq](https://img.shields.io/badge/Robotiq-2F--85-yellowgreen)
-![MoveIt2](https://img.shields.io/badge/MoveIt2-MTC-lightblue)
-![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-9cf)
-![RViz](https://img.shields.io/badge/RViz-Visualization-00599C)
-![ROS2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros)
+I believe robotics is most compelling when simulation fidelity, reinforcement learning, and real hardware form a tight, deployable loop.
 
-**Programming & Tools**  
-![Python](https://img.shields.io/badge/Python-3.10-FFD43B?logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B)
-![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-yellow)
-![Git](https://img.shields.io/badge/Git-Version_Control-informational)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
+## At a glance
+- **Focus:** robot manipulation, reinforcement learning, autonomous navigation, multi-robot coordination
+- **Current direction:** RL-trained policies on UR arms and quadrupeds, sim-to-real transfer with MuJoCo and Isaac Sim
+- **Open to:** robotics developers, RL practitioners, ROS 2 peers, open-source contributors
 
----
+## What I Do
 
-## Featured Projects
+**Down to the Hardware**
 
-### Autonomous Pick-and-Place System (UR5 + Robotiq)
-Vision-based manipulation system using ROS 2, MoveIt 2, and Gazebo.
+UR arm pick-and-place with Robotiq grippers, CHAMP-based quadruped locomotion, motor control and hardware interfacing via ROS 2 Control.
 
-- IK-based motion planning with MoveIt Task Constructor  
-- Integrated perception pipeline and gripper control  
-- Collision-aware execution and simulation-to-real workflow  
+**Training the Policy**
 
-🔗 [Read on Medium](https://medium.com/@darshmenon02/how-i-am-building-an-autonomous-pick-and-place-system-with-ros-2-jazzy-and-gazebo-harmonic-6474cbcc8dc7)
+SAC/TQC reinforcement learning in MuJoCo 3 for reach, pick-and-place, and dual-arm tasks. PPO locomotion for Unitree Go2 and bipedal walkers. Isaac Sim RL pipelines for UR arms.
 
----
+**Out to Deployment**
 
-### ROS 2 Navigation (SLAM Toolbox + Nav2)
-End-to-end navigation pipeline from mapping to localization and obstacle avoidance.
+ROS 2 policy execution nodes, Nav2 + SLAM Toolbox navigation stacks, multi-robot Open-RMF fleet coordination, and web-based robot monitoring with RoboCloud.
 
-- SLAM Toolbox with Nav2 (ROS 2 Jazzy)  
-- Costmaps, TF tuning, and YAML configuration  
-- Tested in Gazebo with real-time visualization  
+## My Technical Footprint
 
-🔗 [Read Full Guide](https://medium.com/@darshmenon02/mastering-ros-2-navigation-from-slam-mapping-to-autonomous-obstacle-avoidance-7446e4ff049a)
+I've built end-to-end robotics systems spanning MuJoCo RL training, ROS 2 sim and real deployment, vision-based manipulation, and multi-robot fleet management. My projects cover the full stack: reinforcement learning environments, motion planning with MoveIt 2, autonomous navigation with Nav2, and ROS 2 control pipelines for UR and Trossen arms.
 
----
+I also contribute to open-source robotics projects — ros2/ros2cli, ros-controls/ros2_control_demos, moveit/moveit2_tutorials, ARISE-Initiative/robosuite — to give back to the ecosystem I build on.
 
-## Core Interests
-
-- Motion Planning (OMPL, Inverse Kinematics)  
-- Robot Perception (Depth, Point Clouds, Vision)  
-- Task Planning (MoveIt Task Constructor)  
-- Navigation (SLAM, LiDAR, Costmaps)  
-- Autonomous System Deployment  
-
----
+## Looking for People Who...
+- care about real deployable robotics, not just simulation demos
+- work on manipulation, locomotion, navigation, or sim-to-real transfer
+- want to collaborate on open-source ROS 2 or RL tooling
+- enjoy discussing practical trade-offs in robotics engineering
 
 ## GitHub Stats
 
@@ -72,22 +46,8 @@ End-to-end navigation pipeline from mapping to localization and obstacle avoidan
   <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=darshmenon&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
+## Let's Connect
 
-## Connect
+If you are building on robotics, reinforcement learning, ROS 2, or sim-to-real systems, feel free to reach out. I'm always happy to exchange ideas, debug real-world issues, and build useful things with like-minded engineers.
 
-<p align="center">
-  <a href="https://github.com/darshmenon">
-    <img src="https://img.shields.io/badge/GitHub-darshmenon-181717?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/darsh-menon/">
-    <img src="https://img.shields.io/badge/LinkedIn-Darsh%20Menon-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://medium.com/@darshmenon02">
-    <img src="https://img.shields.io/badge/Medium-%40darshmenon02-black?logo=medium&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-> _“The best way to predict the future is to build it.” – Alan Kay_
+📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/) • [Medium](https://medium.com/@darshmenon02)
