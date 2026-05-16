@@ -1,37 +1,43 @@
-# Hi, I'm Darsh Menon 👋
+<h1 align="center">Hi, I'm Darsh Menon 👋</h1>
 
-Full-stack robotics developer building the end-to-end loop from perception to actuation: arm manipulation, autonomous navigation, animatronic HRI, and reinforcement learning.
+<p align="center">
+  Full-stack robotics developer — perception to actuation:<br/>
+  arm manipulation · autonomous navigation · animatronic HRI · reinforcement learning
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/darsh-menon/) • [Medium](https://medium.com/@darshmenon02) • [Portfolio](https://darshmenon.github.io/) • [RoboCloud Dashboard](https://robocloud-dashboard.vercel.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/darsh-menon/">LinkedIn</a> •
+  <a href="https://medium.com/@darshmenon02">Medium</a> •
+  <a href="https://darshmenon.github.io/">Portfolio</a> •
+  <a href="https://robocloud-dashboard.vercel.app/">RoboCloud Dashboard</a>
+</p>
 
-`ROS 2` `MuJoCo RL` `UR Arms` `Nav2 / SLAM` `Quadruped Locomotion` `HRI` `Multimodal Transformers`
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo%20RL-FF6B00?style=flat"/>
+  <img src="https://img.shields.io/badge/UR%20Arms-0078D4?style=flat"/>
+  <img src="https://img.shields.io/badge/Nav2%20%2F%20SLAM-2E7D32?style=flat"/>
+  <img src="https://img.shields.io/badge/Quadruped-6A1B9A?style=flat"/>
+  <img src="https://img.shields.io/badge/HRI-E65100?style=flat"/>
+  <img src="https://img.shields.io/badge/Multimodal%20Transformers-1565C0?style=flat"/>
+</p>
 
-I believe robotics is most compelling when simulation fidelity, learned behaviour, and real hardware form a tight deployable loop, from servo-level lip sync to fleet-scale coordination.
+---
 
-## At a glance
+I believe robotics is most compelling when simulation fidelity, learned behaviour, and real hardware form a tight deployable loop — from servo-level lip sync to fleet-scale coordination.
+
+## At a Glance
 - **Focus:** robot manipulation, reinforcement learning, autonomous navigation, animatronic HRI, multi-robot coordination
-- **Current direction:** RL-trained policies on UR arms and quadrupeds; multimodal emotion transformers and phoneme-level face animation on a 25-servo animatronic head
+- **Current direction:** RL policies on UR arms and quadrupeds; multimodal emotion transformers and phoneme-level face animation on a 25-servo animatronic head
 - **Open to:** robotics developers, RL practitioners, HRI researchers, ROS 2 peers, open-source contributors
 
-## What I Do
+## What I Build
 
-**Manipulation & Locomotion**
+**Manipulation & Locomotion** — UR arms + Robotiq grippers, CHAMP quadruped, RL policies in MuJoCo 3 & Isaac Sim, deployed via ROS 2 policy nodes.
 
-UR arm pick-and-place with Robotiq grippers, CHAMP-based quadruped locomotion, and RL policies (SAC/TQC/PPO) trained in MuJoCo 3 and Isaac Sim, deployed via ROS 2 policy nodes.
+**Animatronics & HRI** — 25-servo Dynamixel face, multimodal emotion recognition (audio + text + vision + prosody), lip sync transformer.
 
-**Animatronics & HRI**
-
-25-servo Dynamixel animatronic face driven by 52 ARKit blendshapes at 60 fps. Multimodal emotion recognition (audio + text + vision + prosody) and a local NeuroSync transformer for phoneme-level lip sync.
-
-**Navigation & Fleet**
-
-Nav2 + SLAM Toolbox navigation stacks, multi-robot Open-RMF fleet coordination, MoveIt 2 motion planning, web-based robot monitoring with RoboCloud. Physical multi-robot fleet system with overhead LED-blink camera tracking and coordinated three-arm manipulation pipelines.
-
-## My Technical Footprint
-
-I've built end-to-end robotics systems spanning MuJoCo RL training, ROS 2 sim and real deployment, vision-based manipulation, multi-robot fleet management, and expressive HRI. My projects cover the full stack: RL environments, motion planning with MoveIt 2, autonomous navigation with Nav2, ROS 2 control pipelines for UR and Trossen arms, and real-time face animation with trained emotion and lip sync models.
-
-I also contribute to open-source robotics projects: ros2/ros2cli, ros-controls/ros2_control_demos, moveit/moveit2_tutorials, google-deepmind/mujoco_menagerie, ARISE-Initiative/robosuite.
+**Navigation & Fleet** — Nav2 + SLAM Toolbox, Open-RMF multi-robot coordination, MoveIt 2.
 
 ## Looking for People Who...
 - care about real deployable robotics and HRI, not just simulation demos
@@ -48,6 +54,6 @@ I also contribute to open-source robotics projects: ros2/ros2cli, ros-controls/r
 
 ## Let's Connect
 
-If you are building on robotics, reinforcement learning, HRI, or expressive animatronics, feel free to reach out. I am always happy to exchange ideas, debug real-world issues, and build useful things.
+If you are building on robotics, reinforcement learning, HRI, or expressive animatronics, feel free to reach out.
 
 📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/) • [Medium](https://medium.com/@darshmenon02)
