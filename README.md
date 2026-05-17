@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Darsh Menon 👋</h1>
+<h1 align="center">Darsh Menon</h1>
 
 <p align="center">
-  Full-stack robotics developer — perception to actuation:<br/>
-  arm manipulation · autonomous navigation · animatronic HRI · reinforcement learning
+  Robotics engineer focused on perception, planning, and learning for autonomous systems
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darsh-menon/">LinkedIn</a> •
-  <a href="https://medium.com/@darshmenon02">Medium</a> •
   <a href="https://darshmenon.github.io/">Portfolio</a> •
   <a href="https://robocloud-dashboard.vercel.app/">RoboCloud Dashboard</a>
 </p>
@@ -19,31 +17,31 @@
   <img src="https://img.shields.io/badge/Nav2%20%2F%20SLAM-2E7D32?style=flat"/>
   <img src="https://img.shields.io/badge/Quadruped-6A1B9A?style=flat"/>
   <img src="https://img.shields.io/badge/HRI-E65100?style=flat"/>
-  <img src="https://img.shields.io/badge/Multimodal%20Transformers-1565C0?style=flat"/>
+  <img src="https://img.shields.io/badge/VLAs-1565C0?style=flat"/>
 </p>
 
 ---
 
-I believe robotics is most compelling when simulation fidelity, learned behaviour, and real hardware form a tight deployable loop — from servo-level lip sync to fleet-scale coordination.
+I build autonomous robot systems end-to-end on ROS 2 — RL policies for manipulation and locomotion, CV pipelines for real-world perception, and expressive interfaces for human-robot interaction.
 
-## At a Glance
-- **Focus:** robot manipulation, reinforcement learning, autonomous navigation, animatronic HRI, multi-robot coordination
-- **Current direction:** RL policies on UR arms and quadrupeds; multimodal emotion transformers and phoneme-level face animation on a 25-servo animatronic head
-- **Open to:** robotics developers, RL practitioners, HRI researchers, ROS 2 peers, open-source contributors
+## Focus
+- Robot manipulation, autonomous navigation, RL, computer vision, VLAs, expressive HRI
+- **Stack:** ROS 2, MuJoCo, Nav2, SLAM, MoveIt 2, Open-RMF
+- **Open to:** robotics developers, AI/RL practitioners, CV researchers, HRI enthusiasts
 
 ## What I Build
 
-**Manipulation & Locomotion** — UR arms + Robotiq grippers, CHAMP quadruped, RL policies in MuJoCo 3 & Isaac Sim, deployed via ROS 2 policy nodes.
+**Manipulation & Locomotion:** UR arms with Robotiq grippers, CHAMP quadruped, RL policies in MuJoCo 3 deployed via ROS 2 policy nodes.
 
-**Animatronics & HRI** — 25-servo Dynamixel face, multimodal emotion recognition (audio + text + vision + prosody), lip sync transformer.
+**Animatronics & HRI:** 25-servo Dynamixel face with multimodal emotion recognition and lip sync transformer for expressive robot interaction.
 
-**Navigation & Fleet** — Nav2 + SLAM Toolbox, Open-RMF multi-robot coordination, MoveIt 2.
+**Navigation & Fleet:** Nav2 and SLAM Toolbox for autonomous navigation, Open-RMF for multi-robot coordination.
 
-## Looking for People Who...
-- care about real deployable robotics and HRI, not just simulation demos
-- work on manipulation, locomotion, navigation, or expressive robot faces
-- want to collaborate on open-source ROS 2, RL tooling, or multimodal AI
-- enjoy discussing engineering trade-offs, servo kinematics to transformer attention
+## Let's Talk If You...
+- care about real deployable robotics, not just simulation demos
+- work on CV, planning, locomotion, VLAs, or expressive HRI
+- want to collaborate on open-source ROS 2, RL, or CV pipelines
+- enjoy discussing trade-offs from servo kinematics to vision-language-action models
 
 ## GitHub Stats
 
@@ -54,6 +52,6 @@ I believe robotics is most compelling when simulation fidelity, learned behaviou
 
 ## Let's Connect
 
-If you are building on robotics, reinforcement learning, HRI, or expressive animatronics, feel free to reach out.
+Building on robotics, AI, RL, CV, VLAs, or expressive HRI? Reach out.
 
-📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/) • [Medium](https://medium.com/@darshmenon02)
+📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/)
