@@ -18,30 +18,20 @@
   <img src="https://img.shields.io/badge/Quadruped-6A1B9A?style=flat"/>
   <img src="https://img.shields.io/badge/HRI-E65100?style=flat"/>
   <img src="https://img.shields.io/badge/VLAs-1565C0?style=flat"/>
+  <img src="https://img.shields.io/badge/World%20Models-00838F?style=flat"/>
+  <img src="https://img.shields.io/badge/Long--Horizon%20Tasks-8D6E63?style=flat"/>
 </p>
 
 ---
 
-I build autonomous robot systems end-to-end on ROS 2 — RL policies for manipulation and locomotion, CV pipelines for real-world perception, and expressive interfaces for human-robot interaction.
-
-## Focus
-- Robot manipulation, autonomous navigation, RL, computer vision, VLAs, expressive HRI
-- **Stack:** ROS 2, MuJoCo, Nav2, SLAM, MoveIt 2, Open-RMF
-- **Open to:** robotics developers, AI/RL practitioners, CV researchers, HRI enthusiasts
+End-to-end autonomous robots on ROS 2 — RL for manipulation/locomotion, CV for perception, expressive HRI, world models + VLAs for long-horizon tasks. **Stack:** ROS 2, MuJoCo, Nav2, SLAM, MoveIt 2, Open-RMF.
 
 ## What I Build
+- **Manipulation & Locomotion:** UR arms + Robotiq grippers, CHAMP quadruped, RL policies via ROS 2 policy nodes
+- **Animatronics & HRI:** 25-servo Dynamixel face, multimodal emotion recognition, lip sync transformer
+- **Navigation & Fleet:** Nav2 + SLAM Toolbox, Open-RMF for multi-robot coordination
 
-**Manipulation & Locomotion:** UR arms with Robotiq grippers, CHAMP quadruped, RL policies in MuJoCo 3 deployed via ROS 2 policy nodes.
-
-**Animatronics & HRI:** 25-servo Dynamixel face with multimodal emotion recognition and lip sync transformer for expressive robot interaction.
-
-**Navigation & Fleet:** Nav2 and SLAM Toolbox for autonomous navigation, Open-RMF for multi-robot coordination.
-
-## Let's Talk If You...
-- care about real deployable robotics, not just simulation demos
-- work on CV, planning, locomotion, VLAs, or expressive HRI
-- want to collaborate on open-source ROS 2, RL, or CV pipelines
-- enjoy discussing trade-offs from servo kinematics to vision-language-action models
+Open to robotics/AI/RL/CV/HRI collaborators building real deployable systems.
 
 ## GitHub Stats
 
@@ -49,9 +39,5 @@ I build autonomous robot systems end-to-end on ROS 2 — RL policies for manipul
   <img src="https://readme-stats-fast.vercel.app/api?username=darshmenon&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=darshmenon&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
-## Let's Connect
-
-Building on robotics, AI, RL, CV, VLAs, or expressive HRI? Reach out.
 
 📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/)
