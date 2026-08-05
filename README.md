@@ -28,7 +28,7 @@ End-to-end autonomous robots on ROS 2 — RL for manipulation/locomotion, CV for
 
 ## What I Build
 - **Manipulation & Locomotion:** UR arms + Robotiq grippers, CHAMP quadruped, RL policies via ROS 2 policy nodes
-- **Animatronics & HRI:** 25-servo Dynamixel face, multimodal emotion recognition, lip sync transformer
+- **Animatronics & HRI:** 25-servo Dynamixel face, multimodal emotion recognition, lip sync transformer, and a Three.js-based 3D avatar simulation
 - **Navigation & Fleet:** Nav2 + SLAM Toolbox, Open-RMF for multi-robot coordination
 
 Open to robotics/AI/RL/CV/HRI collaborators building real deployable systems.
