@@ -40,4 +40,12 @@ Open to robotics/AI/RL/CV/HRI collaborators building real deployable systems.
   <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=darshmenon&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+## Support
+
+<p align="center">
+  <a href="https://buymeacoffee.com/darshmenonv">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=darshmenonv&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" width="180" />
+  </a>
+</p>
+
 📧 darshmenon02@gmail.com • [LinkedIn](https://www.linkedin.com/in/darsh-menon/)
