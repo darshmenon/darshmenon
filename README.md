@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/darsh-menon/">LinkedIn</a> •
   <a href="https://darshmenon.github.io/">Portfolio</a> •
-  <a href="https://robocloud-dashboard.vercel.app/">RoboCloud Dashboard</a>
+  <a href="https://robocloudhub.tech/">RoboCloud Dashboard</a>
 </p>
 
 <p align="center">
